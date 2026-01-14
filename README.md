@@ -2,7 +2,7 @@
 ## Usage
 
 ```shell
-chmod +x discord_bot_manager.sh
+chmod +x main.sh
 ```
 
 ```shell
